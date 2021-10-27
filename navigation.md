@@ -2,7 +2,9 @@
 
 [gimmick:theme](cyborg)
 
+[](
 [gimmick:themechooser](Choose theme)
+)
 
 [学習]()
 
